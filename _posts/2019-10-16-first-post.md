@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "concert"
+title: "graduate concert"
 author: "ybaba"
 categories: others
 tags: []
