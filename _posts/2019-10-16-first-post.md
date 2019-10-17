@@ -4,7 +4,7 @@ title: "graduate concert"
 author: "ybaba"
 categories: others
 tags: []
-image: 1.jpg
+image: graduate.jpg
 ---
 
 ### 金沢大学人間社会学域学校教育学類音楽教育専修卒業演奏会<br>
@@ -14,4 +14,4 @@ image: 1.jpg
 ###### SP　谷川茉奈美 | tanikawa manami<br>
 ###### PF　寺尾黎花 | terao reika<br>
 
-![画像](/assets/img/2.jpg)
+![画像](/assets/img/red.jpg)

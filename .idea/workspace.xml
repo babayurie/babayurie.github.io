@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abb9d82c-c817-44a5-9551-ba0c9821f785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sister.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-15-second-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-15-second-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-16-first-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-16-first-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/graduate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/red.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/night.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/grass.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,13 +20,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-16-first-post.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="320">
-                <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,8 +37,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-15-second-post.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <first_editor relative-caret-position="320">
+                <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -38,13 +58,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/about.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="15" selection-start-line="15" selection-end-line="15" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -56,6 +73,7 @@
       <find>Millennial is a minimalist</find>
       <find>Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a</find>
       <find>金沢大学</find>
+      <find>babaweb</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -64,14 +82,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_data/settings.yml" />
         <option value="$PROJECT_DIR$/_posts/2016-04-04-about-the-author.md" />
         <option value="$PROJECT_DIR$/_posts/2017-01-01-welcome-to-millennial.md" />
-        <option value="$PROJECT_DIR$/pages/about.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-16-first-post.md" />
         <option value="$PROJECT_DIR$/_posts/2019-10-16-second-post.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-16-first-post.md" />
         <option value="$PROJECT_DIR$/_posts/2019-10-15-second-post.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/pages/about.md" />
       </list>
     </option>
   </component>
@@ -119,6 +137,11 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Millennial-gh-pages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Millennial-gh-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -160,25 +183,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571205484969</updated>
-      <workItem from="1571205486225" duration="5244000" />
+      <workItem from="1571205486225" duration="6386000" />
+      <workItem from="1571277059094" duration="243000" />
+      <workItem from="1571277548578" duration="1666000" />
     </task>
+    <task id="LOCAL-00001" summary="コミット">
+      <created>1571212274479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571212274479</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修正">
+      <created>1571215135644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571215135644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5244000" />
+    <option name="totallyTimeSpent" value="8295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -186,96 +221,79 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="コミット" />
+    <MESSAGE value="修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="修正" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-09-text-formatting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-getting-started.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-welcome-to-millennial.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/arctic-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/arctic-2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-09-text-formatting.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-10-getting-started.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-01-01-welcome-to-millennial.md" />
+    <entry file="file://$PROJECT_DIR$/assets/img/arctic-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/arctic-2.jpg" />
     <entry file="file://$PROJECT_DIR$/_layouts/misc.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="15" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-15-second-post.md">
+    <entry file="file://$PROJECT_DIR$/_data/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-16-first-post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-16-first-post.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-15-second-post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="320">
-            <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>

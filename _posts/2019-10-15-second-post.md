@@ -4,7 +4,7 @@ title: "night museum"
 author: "ybaba"
 categories: others
 tags: []
-image: 3.jpg
+image: night.jpg
 ---
 
 ### ナイトミュージアム<br>
@@ -14,4 +14,4 @@ image: 3.jpg
 ###### 谷川茉奈美 | tanikawa manami<br>
 ###### 寺尾黎花 | terao reika<br>
 
-![画像](/assets/img/4.jpg)
+![画像](/assets/img/grass.jpg)
